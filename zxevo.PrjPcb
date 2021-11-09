@@ -35,9 +35,6 @@ OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
-VaultGUID=
-ReleaseVaultName=
-ItemGUID=
 
 [Preferences]
 PrefsVaultGUID=
@@ -214,23 +211,6 @@ GenerateClassCluster=0
 DocumentUniqueId=AXBJXCBN
 
 [Document11]
-DocumentPath=Analog power.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=7
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XYJMRDKD
-
-[Document12]
 DocumentPath=AY Amp.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -247,7 +227,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LCPGWMJI
 
-[Document13]
+[Document12]
 DocumentPath=Video out.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -264,7 +244,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ROYRJGYU
 
-[Document14]
+[Document13]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -281,7 +261,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HIUJGKPI
 
-[Document15]
+[Document14]
 DocumentPath=IDE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -298,7 +278,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CVOJULQO
 
-[Document16]
+[Document15]
 DocumentPath=FDC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -315,7 +295,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SQIUWXIF
 
-[Document17]
+[Document16]
 DocumentPath=Memory.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -332,7 +312,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NMMIAJQK
 
-[Document18]
+[Document17]
 DocumentPath=COM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -349,7 +329,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UNLLVGUZ
 
-[Document19]
+[Document18]
 DocumentPath=BUS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -366,7 +346,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LUBUIIXP
 
-[Document20]
+[Document19]
 DocumentPath=CPU ROM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -383,7 +363,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NJTWRAYW
 
-[Document21]
+[Document20]
 DocumentPath=Job1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
