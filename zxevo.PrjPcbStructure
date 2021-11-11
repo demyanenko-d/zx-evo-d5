@@ -14,3 +14,4 @@ Record=SheetSymbol|SourceDocument=analog_part.SchDoc|Designator=U_AY Amp|SchDesi
 Record=SheetSymbol|SourceDocument=analog_part.SchDoc|Designator=U_Tape|SchDesignator=U_Tape|FileName=Tape.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Tape.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=analog_part.SchDoc|Designator=U_Video out|SchDesignator=U_Video out|FileName=Video out.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Video out.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=NoMainPathDocument|SourceDocument=First_Sheet.SCHDOC|FileName=ARM.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=First_Sheet.SCHDOC|FileName=Gamepads.SchDoc|SheetNumber= 
