@@ -601,22 +601,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=zxevo_c2 26.11.2021 23-07-44.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=zxevo_c2 26.11.2021 23-08-49.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=zxevo_c2 26.11.2021 23-10-20.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=zxevo_c2 26.11.2021 23-10-51.WAS
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
