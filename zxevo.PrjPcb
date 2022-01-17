@@ -245,40 +245,6 @@ GenerateClassCluster=0
 DocumentUniqueId=XJHVAVMG
 
 [Document13]
-DocumentPath=zxevo_c2.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OUNHNFQG
-
-[Document14]
-DocumentPath=zxevo_c2.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WOQUCQXM
-
-[Document15]
 DocumentPath=ESP32.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -295,7 +261,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HOVMZYXU
 
-[Document16]
+[Document14]
 DocumentPath=CPLD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -312,7 +278,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NRBBOFBZ
 
-[Document17]
+[Document15]
 DocumentPath=CPLD.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -329,7 +295,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document16]
 DocumentPath=FPGA.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -346,7 +312,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document17]
 DocumentPath=ESP32.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -363,7 +329,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document18]
 DocumentPath=SDCARD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -380,7 +346,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OVIKDTFW
 
-[Document21]
+[Document19]
 DocumentPath=SDCARD.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -397,7 +363,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document20]
 DocumentPath=CPU ROM.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -414,7 +380,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document21]
 DocumentPath=FDC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -431,7 +397,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document22]
 DocumentPath=BUS.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -448,7 +414,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document23]
 DocumentPath=AY Amp.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -465,7 +431,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document24]
 DocumentPath=PLL.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -482,7 +448,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YGOVENLA
 
-[Document27]
+[Document25]
 DocumentPath=PLL.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -499,7 +465,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document26]
 DocumentPath=Gamepads.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -516,7 +482,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document27]
 DocumentPath=Job2.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -532,6 +498,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document28]
+DocumentPath=zxevo.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CAHMWPXV
+
+[Document29]
+DocumentPath=zxevo.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TILZPONQ
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for zxevo\Design Rule Check - zxevo_c2.html
