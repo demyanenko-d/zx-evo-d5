@@ -537,6 +537,18 @@ DocumentUniqueId=TILZPONQ
 DocumentPath=Project Outputs for zxevo\Design Rule Check - zxevo_c2.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=zxevo.cmp
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=zxevo.csv
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=zxevo.rep
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
